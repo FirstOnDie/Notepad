@@ -2,7 +2,7 @@
 Aplicación Block de notas
 
 ## Descripción
-Aplicación de escritorio que simula un block de notas, con las funciones básicas de guardar, abrir y editar archivos de texto.
+Aplicación de escritorio que simula un block de notas.
 
 ## Funcionalidades
 - Guardar nota
